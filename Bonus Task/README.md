@@ -230,6 +230,6 @@ One of the most surprising outcomes was that the commonly used Sigmoid output la
 
 ---
 
-This project started as an implementation exercise and evolved into an exploration of how architectural decisions influence reconstruction quality and learned representations in autoencoders. 🚀
+This project started as an implementation exercise and evolved into an exploration of how architectural decisions influence reconstruction quality and learned representations in autoencoders. 
 
 This is the kind of README that makes recruiters or other students immediately understand **what you explored, what you found, and what you learned**, instead of just seeing a notebook dump.
